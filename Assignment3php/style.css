@@ -1,0 +1,13 @@
+
+header > nav > div > a >img{
+  height: 70px;
+  width: auto;
+}
+header h1{
+  text-align: center;
+  font-size: 2.5em;
+  color: #808080;
+}
+.container{
+  padding: 5%;
+}
